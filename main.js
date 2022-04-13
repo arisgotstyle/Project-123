@@ -1,6 +1,6 @@
 noseX='';
 noseY='';
-difference='0';
+difference='';
 leftWristX='';
 rightWristX='';
 function setup(){
